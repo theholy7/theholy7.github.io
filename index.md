@@ -10,7 +10,7 @@ As for me, I am a physicist turned "Junior Data X"
 
 (`X in ['miner', 'engineer', 'scientist']`).
 
-Portuguese, born in 1991, and with a lot of passion for trave, food, and learning.
+Portuguese, born in 1991, and with a lot of passion for travel, food, and learning.
 
 Enjoy,
 
@@ -18,7 +18,8 @@ Jose
 
 ## Fake Foods Project
 
-1. Intro
+Follow the [Github Fake Foods Repo](https://github.com/theholy7/fake-foods) for all updates.
+1. [Intro](fake-foods/intro)
 2. Defining the project
 3. Collecting Data with Scrapy
 4. Proxy system
