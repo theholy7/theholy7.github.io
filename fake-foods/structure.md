@@ -73,6 +73,44 @@ What happened here?
 
 This initiates the files and folders needed for _scrapy_ so that we can start collecting data.
 
+This created:
+
+```bash
+.
+├── creator.py         # Not created by scrapy
+├── fake_food_spider   # Not created by scrapy
+│   ├── connection.py  # Not created by scrapy
+│   ├── database.py    # Not created by scrapy
+│   ├── __init__.py
+│   ├── items.py
+│   ├── loaders.py     # Not created by scrapy
+│   ├── middlewares.py
+│   ├── pipelines.py
+│   ├── settings.py
+│   └── spiders
+├── requirements.txt   # Not created by scrapy
+└── scrapy.cfg
+
+2 directories, 11 files
+```
+
+The files that were not created by _scrapy_ I will talk about later in the next post.
+
+We are now close to having our project structure all set! We are missing the data science part.
+Lets install _cookiecutter_, and run a second command to initialize the project folder.
+
+```bash
+(fake-foods) $ pip install cookiecutter
+(fake-foods) $ cookiecutter https://github.com/drivendata/cookiecutter-data-science 
+```
+
+After running this command, we finally have the project structure we wanted defined in the beggining.
+We are now ready to start working.
+
+In the next blog post I will explore how I scrape recipes for this project.
+
+Stay tuned, and if you made it here: thanks for reading!
 
 Best,
+
 Jose 
