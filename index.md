@@ -21,7 +21,7 @@ Jose
 Follow the [Github Fake Foods Repo](https://github.com/theholy7/fake-foods) for all updates.
 1. [Intro](fake-foods/intro) (21/12/2017)
 2. [Defining the project](fake-foods/structure) (25/12/2017)
-3. Collecting Data with Scrapy
+3. [Collecting Data with Scrapy](fake-foods/collecting-data) (30/12/2017)
 4. Proxy system
 5. User Agents
 
