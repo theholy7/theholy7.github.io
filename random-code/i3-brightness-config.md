@@ -25,4 +25,27 @@ I was always getting `ln: failed to create symbolic link '/sys/class/backlight/b
 
 Thankfully I found the answer in [this blogpost](https://cialu.net/brightness-control-not-work-i3wm/).
 
-I installed `light` into `~/.light` and 
+I cloned `light` into `~/.light` and installed with `sudo make && sudo make install`.
+
+```bash
+$ git clone https://github.com/haikarainen/light.get ~/.light
+$ cd .light
+$ sudo make # you might need to install make and gcc
+$ sudo make install
+```
+
+And finally I was able to add the snippet below to my config and control brightness.
+Don't forget to reload your config with `mod+Shift+c`!
+
+```bash
+# Screen brightness controls
+# increase screen brightness
+bindsym XF86MonBrightnessUp exec light -A 5
+# decrease screen brightness
+bindsym XF86MonBrightnessDown exec light -U 5
+```
+
+Hope this helps!
+
+Thanks for reading,
+Jose :)
