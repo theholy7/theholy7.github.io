@@ -28,7 +28,7 @@ Follow the [Github Fake Foods Repo](https://github.com/theholy7/fake-foods) for 
 
 ## Random code
 
-Nothing yet. :(
+1. [i3wm brightness config](random-code/i3-brightness-config)
 
 ## Recipes
 
