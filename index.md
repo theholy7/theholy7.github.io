@@ -29,6 +29,7 @@ Follow the [Github Fake Foods Repo](https://github.com/theholy7/fake-foods) for 
 ## Random code
 
 1. [i3wm brightness config](random-code/i3-brightness-config)
+2. [Raising custom Exceptions in Flask-Restplus for POST JSON payloads](random-code/flask-restplus-custom-errors) (11/03/2018)
 
 ## Recipes
 
