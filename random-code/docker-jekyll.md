@@ -28,7 +28,7 @@ After installing Docker - follow the docs, they are awesome - you run the follow
 export JEKYLL_VERSION=3.8
 docker container run --rm \
 	--volume="$PWD:/srv/jekyll" \
-	--p 4000:4000
+	--p 4000:4000 \
 	-it jekyll/jekyll:$JEKYLL_VERSION \
 	jekyll serve
 ```
