@@ -1,4 +1,13 @@
-# Intro
+---
+layout: post
+title: Intro to Fake Foods
+excerpt_separator:  <!--more-->
+categories:
+  - Fake Foods
+tags:
+  - Python
+  - Fake Foods
+---
 
 This is my first real project. I have a plan and I intend to stick to it. This project is called "Fake Foods" and is inspired by Artificial Intelligence, Natural Language Processing and Generation, and the "fake news" concept that has taken over the world in 2017, especially after Trumps election.
 
@@ -30,4 +39,5 @@ Slowly but surely I want to make this happen.
 If you want to contribute, let me know!
 
 Best,
+
 Jose 
