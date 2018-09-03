@@ -12,7 +12,7 @@ baseurl: ''
 
 author:
   name: 'Jose Antunes'
-  url: https://linkedin.com/antunesjose
+  url: https://linkedin.com/in/antunesjose
 
 remote_theme: fongandrew/hydeout
 paginate: 5
