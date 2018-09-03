@@ -1,2 +1,21 @@
+# Setup
+title: Jose Antunes
+tagline: 'Code, Food, Travel'
+description: 'Everyday learning and sharing'
+url: https://joseantunes.tech
+baseurl: ''
+  # the optional subpath of your site, e.g. "/blog"
+  # NB: This applies to all pages in your Jekyll site.
+  # If you want to move just the blog index pages but keep
+  # other pages at root, see the paginate_path and
+  # sidebar_blog_link below.
+
+author:
+  name: 'Jose Antunes'
+  url: https://linkedin.com/antunesjose
+
 remote_theme: fongandrew/hydeout
 paginate: 5
+
+github:
+  repo: https://github.com/theholy7
