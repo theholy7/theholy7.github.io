@@ -1,5 +1,15 @@
-# Raising Custom Exceptions in Flask Restplus for wrong POST JSON payloads
-
+---
+layout: post
+title: Raising Custom Exceptions in Flask Restplus for wrong POST JSON payloads
+excerpt_separator:  <!--more-->
+categories:
+  - Random Code
+tags:
+  - Flask
+  - Flask Restplus
+  - Python
+  - API development
+---
 If you have checked my LinkedIn, you know I am a Data Engineer at [Cytora](https://www.cytora.com).
 Part of my job is to work in our product, the API that serves our AI models to our clients.
 
@@ -7,7 +17,7 @@ Part of a good product is to be able to provide the users with a good experience
 or develop tools that interact with it. To do so, you need to be able to tell them exaclty what is going wrong.
 A simple 400 Bad Request won't work, you need to be able produce custom error messages and codes.
 
-However, what should be an easy task, isn't. [Flask-Restplus](https://github.com/noirbizarre/flask-restplus/) 
+However, what should be an easy task, isn't. <!--more-->[Flask-Restplus](https://github.com/noirbizarre/flask-restplus/) 
 (or at least the fork we use internally) doesn't seem
 to support raising custom Exceptions for JSON payloads that are sent to a POST endpoint. So how did we solve this problem?
 

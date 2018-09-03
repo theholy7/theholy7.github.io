@@ -1,9 +1,18 @@
-# Configuring brightness keys in i3wm
-
+---
+layout: post
+title: Configuring brightness keys in i3wm
+excerpt_separator:  <!--more-->
+categories:
+  - i3wm
+tags:
+  - i3wm
+  - light
+  - brightness
+---
 I have a Dell XPS 13 9360, and I have just started using i3wm.
 Installing Ubuntu and i3 was easy enough following the tutorial on i3wm's website.
 One of the hard parts was getting the brightness keys to work.
-
+<!--more-->
 Going around the web, most of the solutions offered involve using `xbacklight` to control the brightness
 and binding it with the correct keys by copying the following snippet into the config file
 (located in `~/.config/i3/config`):

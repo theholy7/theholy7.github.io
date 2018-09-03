@@ -1,5 +1,14 @@
-# Using Docker to run Jekyll
-
+---
+layout: post
+title: Using Docker to run Jekyll
+excerpt_separator:  <!--more-->
+categories:
+  - Random Code
+tags:
+  - Docker
+  - Jekyll
+  - GitHub Pages
+---
 When I first started this blog, I found it quite tricky to have Jekyll up and running properly.
 I followed the guide in Github and the guide in jekyll's own website, but kept having problems.
 These problems were related to dependencies, the gems ruby uses, and installing them wasn't an easy task.
@@ -8,7 +17,7 @@ When you solve a problem, or get something working, do you ever feel "dirty"? Li
 found wasn't ideal, and your environment is polluted? Or that strange feeling you get, when something works but you don't exactly know why?
 
 *I absolutely hate that feeling...* And I felt that way, until I found [Docker](https://docker.com).
-
+<!--more-->
 The typical thing your read is that Docker lets you _containarize_ your applications.
 And you are like: "Cool. What is that?". And someone than explains that you get everything
 packaged and isolated from your system - kind of like a Virtual Machine, but not really a Virtual Machine. It is lighter than a VM, therefore easier to spin up and kill.
