@@ -17,3 +17,5 @@ author:
   linkedin: 'https://linkedin.com/in/antunesjose'
 
 paginate: 5
+disqus:
+  shortname: joseantunes-tech
