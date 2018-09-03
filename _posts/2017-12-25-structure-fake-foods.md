@@ -1,9 +1,17 @@
-## Project Structure
-
+---
+layout: post
+title: Fake Foods project strucutre
+excerpt_separator:  <!--more-->
+categories:
+  - Fake Foods
+tags:
+  - Python
+  - Fake Foods
+---
 The [first post](intro) established all my project objectives, so this post serves to give a bit more structure to the idea.
 
 For this project, it is my personal preference to keep everything in the same repository, and well separate.
-
+<!--more-->
 This is:
 
 ```bash
