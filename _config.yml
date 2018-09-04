@@ -1,6 +1,9 @@
+# Github related
 remote_theme: fongandrew/hydeout
+plugins:
+  - "jekyll-github-metadata"
 
-# Setup
+# Theme Related
 title: 'Jose Antunes'
 tagline: 'Code, Food, Travel'
 description: 'Everyday learning and sharing'
