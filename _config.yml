@@ -22,3 +22,5 @@ author:
 paginate: 5
 disqus:
   shortname: joseantunes-tech
+
+google_analytics: 'UA-28769373-2'
