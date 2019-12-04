@@ -2,6 +2,8 @@
 layout: post
 title: Reflection on work
 excerpt_separator:  <!--more-->
+categories:
+  - Life
 tags:
   - Learning
   - Continuous Deployment
