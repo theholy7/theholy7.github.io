@@ -29,7 +29,7 @@ A while ago, I had an idea for an app, and I decided to learn SwiftUI and Swift 
 
 I have not gotten far in my app, but I did solve one of my first hurdles. As such, I want to share some of the things that I have learned, and the code that I have built.
 
-Let me set the scene:  I want to learn how to user CloudKit DB, and I want to seed it with data that will be viewable in my app.
+Let me set the scene:  I want to learn how to use CloudKit DB, and I want to seed it with data that will be viewable in my app.
 
 In my case, the seed data consists of a set of locations that are relevant to the users. Though seeding databases is such a common problem, I did not find a trivial solution to seed my database, say: using a CSV and importing it into the table (or set of records) that match the CSV's schema.
 
