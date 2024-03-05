@@ -2,10 +2,11 @@
 remote_theme: fongandrew/hydeout
 plugins:
   - "jekyll-github-metadata"
+  - "jekyll-feed"
 
 # Theme Related
 title: 'Jose Antunes'
-tagline: 'Code, Food, Travel'
+tagline: 'Miscellaneous thoughts'
 description: 'Everyday learning and sharing'
 url: 'http://joseantunes.tech'
 baseurl: ''
