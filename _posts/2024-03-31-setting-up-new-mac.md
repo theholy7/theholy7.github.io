@@ -11,6 +11,7 @@ I wanted to write a blogpost about how I setup my new Mac for work. However, I f
 I feel this because my process feels inefficient.
 
 Let me walk you through how I setup things. And hopefully I will figure out the questions I should be asking myself to improve it.
+<!--more-->
 
 The first step when I got my new Mac was to make sure everything was up to date. So I let my computer do it's thing and update properly. After that, I reviewed all my trackpad and mouse settings:
 - Enable tapping to click, and right-click in the bottom right
