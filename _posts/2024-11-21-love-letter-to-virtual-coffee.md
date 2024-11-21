@@ -8,18 +8,20 @@ tags:
   - Work
 ---
 
+Virtual coffees are a divisive topic. The opinions I have seen around me range from “yuck, no” to “they’re okay”.
+Personally, they can be really great! I have had many fulfilling conversations, ranging from learning moments about other areas
+of the company to deep, meaningful life conversations. This post serves to advocate for virtual coffee, to both managers and ICs,
+and to share a few tips that hopefully will help make your one-on-one moments better.
+
 <!--more-->
 
-TL;DR:
+Here is a quick TL;DR:
 * Virtual coffees should be optional but encouraged - they really helped me connect with people at my remote company.
 * Go beyond the basics when answering ice breaker questions - give your colleagues multiple paths to carry the conversation forward.
 * It’s okay to say no to a coffee event - they are better when you can be fully present and happy to be there.
 * Donut App on Slack works well enough, and I personally enjoyed more one-on-one coffees than larger groups.
 
-Virtual coffees are a divisive topic. The opinions I have seen around me range from “yuck, no” to “they’re okay”.
-Personally, they can be really great! I have had many fulfilling conversations, ranging from learning moments about other areas
-of the company to deep, meaningful life conversations. This post serves to advocate for virtual coffee, to both managers and ICs,
-and to share a few tips that hopefully will help make your one-on-one moments better.
+_Onto the story..._
 
 For the past 3 years, I worked remotely at a company called Cable. We had no office, and we had no commute.
 We did meet every quarter at first, for about a week, and then every 6 months for the same amount of time.
