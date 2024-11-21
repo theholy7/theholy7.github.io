@@ -35,7 +35,7 @@ Now, a word of warning: I love coffee and conversation. I think this stems from 
 * My Portuguese heritage: we love coffee and talking over coffee.
 * My old Science Management teacher who introduced the term “management by coffee” to me.
 
-If, however, you don’t share this passion at all, here is rule number one: all virtual coffees should be optional.
+If, however, you don’t share this passion at all, here is rule number one: *all virtual coffees should be optional*.
 No one should be forced to participate; just encourage people lightly and hope for the best. But if you are on the fence
 about these social events, let me share a few more tips to make your experience better. I hope I am able to help you break
 through the initial awkwardness of these virtual coffees and embrace them.
