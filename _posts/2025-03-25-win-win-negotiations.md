@@ -63,20 +63,31 @@ So what are the myths of Win-win Negotiations and how do we get over them?
 
 ## Myth #1: Trust others
 
-Mutualism - (kind of like interdependence)
-- you don't need to like each other
-- you don't need to trust each other
-- but the interestes have to be aligned
+When you really think about it, why should you trust the other person in a negotiation?
 
-How can I know if there is something in this for you?
+Realistically, you don't know them, they are not your friend. They are trying to close a transaction,
+and they want to get what they need.
 
-Respect - you have the benefic of the doubt
-Trust - I do things without data about how you act
+What is trust and respect in the context of negotiations?
+* With trust, I do things without data about how the other person acts
+* With respect, I will give you have the benefit of the doubt
+
+The best thing to create during the negotiation process is **mutualism**. When it exits:
+* You don't _need_ to like each other
+* You don't _need_ to trust each other
+* **But** when the interests are aligned, you are rowing in the same direction
+
+So, the question to ask yourself is: "How can I know if there is something in this for you?".
+Once you understand what motivates the other person, you build upon that answer.
 
 ## Myth #2: Listen Actively
 
-A dog can listen, a negotiator learns. You're listening to ask questions that will let you learn.
-What else is there that you don't know?
+Listening is a passive act. Prof. Falcão states during his talk:  "A dog can listen, a negotiator learns".
+
+You're listening to ask questions that will let you learn. What else is there that you don't know?
+
+The negotiation process is a discovery process, and understanding the other side better will help you reach
+better outcomes.
 
 ## Myth #3: Be transparent
 
@@ -116,6 +127,8 @@ Don't commit to an outcome, don't limit yourself.
 We should commit to an effort. Commit to your behaviour.
 
 ## Lying and cheating
+
+According to Professor Falcão's framework, lying and cheating have no place in win-win negotiations. While he advocates against naive trust and blind transparency, he doesn't endorse deception. Instead, he promotes strategic translucency—sharing what's beneficial while being mindful of what information you disclose. The goal isn't to manipulate or deceive, but to create mutual value through understanding interests and motivations. Effective negotiators focus on building common meaning and exchanging value rather than resorting to dishonesty. Remember that sustainable negotiations require maintaining credibility; once trust is broken through lying, future negotiations become significantly more difficult, if not impossible.
 
 
 
