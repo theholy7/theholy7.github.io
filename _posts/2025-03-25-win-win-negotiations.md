@@ -14,6 +14,8 @@ This lecture was recommended to me by a friend that had the pleasure of doing a 
 Not only was my friend impressed by what he learned, he claimed that the course paid itself back after the first closed
 contract.
 
+<!--more-->
+
 I feel like I have been very lucky everytime that I negotiated a new job.
 I got more or less what I wanted, but have I gotten all I could have gotten? I don't know.
 I feel like I am bad at negotiating, usually revealing way too much way too soon.
@@ -29,7 +31,8 @@ Prof. Falcão describes two types of negotiations:
 
 In Win-Lose Negotiations, power is used to get what you want. This is what we call strong arm tactics.
 We have more power, more money, more resources, and we leverage our position to close a deal.
-By the end of the process, one of the parties is not happy, would you be able to negotiate with them again?
+By the end of the process, one of the parties is not happy.
+Ask yourself, would you be able to negotiate with them again?
 
 Then there is Win-Win Negotiations. Before we dive into what we should do to run a win-win negotiation,
 lets first discuss what people think it is.
@@ -91,21 +94,45 @@ better outcomes.
 
 ## Myth #3: Be transparent
 
-Don't be transparent - it's too transparent, it's too much information. Sometimes it actively hurts you.
+I say this a lot: "I am transparent".
+In my mind, you should be transparent to be a good person, and to achieve good outcomes.
+However, this lecture has definitely changed my mind on this subject.
+I no longer believe that transparency is the best tactic, and have decided that in the future I will be "translucent".
 
-It's not helpful.
+Quick dictionary definitions:
+* Transparent: having the property of transmitting rays of light through its substance so that bodies situated beyond or behind can be distinctly seen;
+* Translucent: permitting light to pass through but diffusing it so that persons, objects, etc., on the opposite side are not clearly visible
 
-Be translucent - not everything comes through, just what is useful.
+Being transparent will at times provide too much information. And too much information can actively hurt you!
+It's not helpful to get to a win-win outcome.
 
-Job Interviews: how does this apply?
+Imagine you are in a salary negotiation, and your interviewer asks you:
+_"What is the minimum amount of money you require to live on a monhtly basis?"._
 
-- You should share what helps.
+You can surely do all the math and come up with a value, but would you share that value?
+This question is very unfair - the answer gives a lot of power to the interviewer at your expense.
+Being transparent in this situation will not let you arrive at a financially advantageous situation.
+You can, _and should_, push back on a question of this type.
+
+You can say: "Help me understand why I should answer that question.
+Help me understand how that will help me get a meaninful, reasonable deal.
+I can answer that question, but if you are going to use that against me, I will feel mistreated.
+That will leave me unhappy and I won't last a long time, and my goal is to be here for a long time.
+So can we talk about something else?"
+
+Notice how this answer is translucent also, and not transparent. You might be thinking: "Wow, you are a horrible person,
+and this is a horrible question. What the heck?!"
+
+So, be translucent - not everything comes through, just what is useful. Just enough information to get a good outcomes
+for both parties.
 
 ## Myth #4: Be nice, just give
 
-they might just get it and walk away.
+Some people give, expecting that by giving the other party will be happy, close the deal, and walk away.
+However, the other party might just want more. It's important to stop giving this signal.
 
 Don't give, exchange. Give something, take something.
+The conversation should be about: can you bring enough value to the table, and can you give enough value in return.
 
 ## Myth #5: Be fair
 
@@ -128,7 +155,12 @@ We should commit to an effort. Commit to your behaviour.
 
 ## Lying and cheating
 
-According to Professor Falcão's framework, lying and cheating have no place in win-win negotiations. While he advocates against naive trust and blind transparency, he doesn't endorse deception. Instead, he promotes strategic translucency—sharing what's beneficial while being mindful of what information you disclose. The goal isn't to manipulate or deceive, but to create mutual value through understanding interests and motivations. Effective negotiators focus on building common meaning and exchanging value rather than resorting to dishonesty. Remember that sustainable negotiations require maintaining credibility; once trust is broken through lying, future negotiations become significantly more difficult, if not impossible.
+According to Professor Falcão's framework, lying and cheating have no place in win-win negotiations.
+While he advocates against naive trust and blind transparency, he doesn't endorse deception.
+Instead, he promotes strategic translucency—sharing what's beneficial while being mindful of what information you disclose.
+The goal isn't to manipulate or deceive, but to create mutual value through understanding interests and motivations.
+Effective negotiators focus on building common meaning and exchanging value rather than resorting to dishonesty.
+Remember that sustainable negotiations require maintaining credibility; once trust is broken through lying, future negotiations become significantly more difficult, if not impossible.
 
 
 
