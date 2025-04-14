@@ -1,4 +1,10 @@
-# Site settings
+# Github related
+remote_theme: fongandrew/hydeout
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-feed"
+
+# Theme Related
 title: "Jose Antunes"
 tagline: "Miscellaneous thoughts"
 description: "Everyday learning and sharing"
@@ -11,24 +17,12 @@ baseurl:
   # other pages at root, see the paginate_path and
   # sidebar_blog_link below.
 
-# Author information
 author:
   name: "Jose Antunes"
   linkedin: "https://linkedin.com/in/antunesjose"
 
-# Build settings
-remote_theme: fongandrew/hydeout
-plugins:
-  - jekyll-github-metadata
-  - jekyll-feed
-  - jekyll-paginate
-
-# Pagination
 paginate: 5
-
-# Comments
 disqus:
   shortname: joseantunes-tech
 
-# Analytics
 google_analytics: "UA-28769373-2"
