@@ -1,6 +1,5 @@
 # Github related
-theme: jekyll-theme-minimal
-# remote_theme: fongandrew/hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-feed"
