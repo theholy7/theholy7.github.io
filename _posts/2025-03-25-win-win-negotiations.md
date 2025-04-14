@@ -165,9 +165,20 @@ We should commit to an effort. Commit to your behaviour. Commit to a process.
 
 ## Ending thoughts
 
+I know that this article ended up quite long.
+If you just jumped straight to the end looking for a TL;DR, here it is.
 It's about being win-win, and how to be win-win. Stay positive, and not naive.
 
-I think I will try to adopt this framework for a while, and see what it brings me.
+What should you do in practice?
+1. Create mutualism
+1. Ask and learn
+1. Be Translucent
+1. Exchange instead of giving
+1. Build common meaning
+1. Be faithful to the process
+1. Commit to putting effort in
+
+I will try to adopt this framework for a while, and see what it brings me.
 It won't always be perfect, but I will try to not panic, try not to be naive, and I will commit
 to the effort and the process.
 
