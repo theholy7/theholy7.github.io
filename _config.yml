@@ -1,15 +1,17 @@
 # Github related
-remote_theme: fongandrew/hydeout
+theme: jekyll-theme-minimal
+# remote_theme: fongandrew/hydeout
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-feed"
 
 # Theme Related
-title: 'Jose Antunes'
-tagline: 'Miscellaneous thoughts'
-description: 'Everyday learning and sharing'
-url: 'http://joseantunes.tech'
-baseurl: ''
+title: "Jose Antunes"
+tagline: "Miscellaneous thoughts"
+description: "Everyday learning and sharing"
+url: "http://joseantunes.tech"
+baseurl:
+  ""
   # the optional subpath of your site, e.g. "/blog"
   # NB: This applies to all pages in your Jekyll site.
   # If you want to move just the blog index pages but keep
@@ -17,11 +19,11 @@ baseurl: ''
   # sidebar_blog_link below.
 
 author:
-  name: 'Jose Antunes'
-  linkedin: 'https://linkedin.com/in/antunesjose'
+  name: "Jose Antunes"
+  linkedin: "https://linkedin.com/in/antunesjose"
 
 paginate: 5
 disqus:
   shortname: joseantunes-tech
 
-google_analytics: 'UA-28769373-2'
+google_analytics: "UA-28769373-2"
