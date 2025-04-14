@@ -16,14 +16,14 @@ contract.
 
 <!--more-->
 
-I feel like I have been very lucky everytime that I negotiated a new job.
+I feel like I have been very lucky every time that I negotiated a new job.
 I got more or less what I wanted, but have I gotten all I could have gotten? I don't know.
 I feel like I am bad at negotiating, usually revealing way too much way too soon.
 I always say I am too transparent.
 
 The first few minutes of the talk were eye-opening. In a way they felt like a personal attack - some of my regular
 behaviours being highlighted. What I thought were good habits of negotiating were wrong, according to this framework.
-Lets dive into the notes I took during this video.
+Let's dive into the notes I took during this video.
 
 Prof. Falcão describes two types of negotiations:
 * Win-Lose Negotiations
@@ -35,7 +35,7 @@ By the end of the process, one of the parties is not happy.
 Ask yourself, would you be able to negotiate with them again?
 
 Then there is Win-Win Negotiations. Before we dive into what we should do to run a win-win negotiation,
-lets first discuss what people think it is.
+let's first discuss what people think it is.
 
 Prof. Falcão shows some statistical data that highlights 7 behaviours people think are associated
 with win-win negotiations. You should:
@@ -46,7 +46,7 @@ with win-win negotiations. You should:
 4. Be nice, just give
 5. Be fair
 6. Be faithful, loyal
-6. Commit to a win-win outcome
+7. Commit to a win-win outcome
 
 However, all of these behaviours are wrong, or limit your ability to negotiate.
 These behaviours are positive, but they are naive.
@@ -59,7 +59,7 @@ That surely can't lead to a win-win outcome...
 
 _Make no assumptions about reciprocation. You have to be positive, not naive._
 
-Maybe a more realisting assumption is:
+Maybe a more realistic assumption is:
 "They will lie to me, they will take advantage of me. Let me negotiate reciprocation, instead of expecting it."
 
 So what are the myths of Win-win Negotiations and how do we get over them?
@@ -73,9 +73,9 @@ and they want to get what they need.
 
 What is trust and respect in the context of negotiations?
 * With trust, I do things without data about how the other person acts
-* With respect, I will give you have the benefit of the doubt
+* With respect, I will give you the benefit of the doubt
 
-The best thing to create during the negotiation process is **mutualism**. When it exits:
+The best thing to create during the negotiation process is **mutualism**. When it exists:
 * You don't _need_ to like each other
 * You don't _need_ to trust each other
 * **But** when the interests are aligned, you are rowing in the same direction
@@ -107,7 +107,7 @@ Being transparent will at times provide too much information. And too much infor
 It's not helpful to get to a win-win outcome.
 
 Imagine you are in a salary negotiation, and your interviewer asks you:
-_"What is the minimum amount of money you require to live on a monhtly basis?"._
+_"What is the minimum amount of money you require to live on a monthly basis?"._
 
 You can surely do all the math and come up with a value, but would you share that value?
 This question is very unfair - the answer gives a lot of power to the interviewer at your expense.
@@ -115,7 +115,7 @@ Being transparent in this situation will not let you arrive at a financially adv
 You can, _and should_, push back on a question of this type.
 
 You can say: "Help me understand why I should answer that question.
-Help me understand how that will help me get a meaninful, reasonable deal.
+Help me understand how that will help me get a meaningful, reasonable deal.
 I can answer that question, but if you are going to use that against me, I will feel mistreated.
 That will leave me unhappy and I won't last a long time, and my goal is to be here for a long time.
 So can we talk about something else?"
@@ -123,7 +123,7 @@ So can we talk about something else?"
 Notice how this answer is translucent also, and not transparent. You might be thinking: "Wow, you are a horrible person,
 and this is a horrible question. What the heck?!"
 
-So, be translucent - not everything comes through, just what is useful. Just enough information to get a good outcomes
+So, be translucent - not everything comes through, just what is useful. Just enough information to get good outcomes
 for both parties.
 
 ## Myth #4: Be nice, just give
@@ -143,7 +143,7 @@ Fairness is really difficult to define. It changes for each party.
 We normally focus on "What is fair to me?", we never talk about what is fair for the other side.
 So it is common that the other side ends up frustrated.
 
-Has anyone ever said "No, no, this is unfair to you, lets not do this."?
+Has anyone ever said "No, no, this is unfair to you, let's not do this."?
 
 Don't be fair, build common meaning. Things need to make sense to both sides.
 When you look for fairness, you just see the world from your perspective.
