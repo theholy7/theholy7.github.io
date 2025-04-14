@@ -1,5 +1,5 @@
 # Github related
-remote_theme: fongandrew/hydeout
+remote_theme: poole/hyde
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-feed"
@@ -8,7 +8,7 @@ plugins:
 title: "Jose Antunes"
 tagline: "Miscellaneous thoughts"
 description: "Everyday learning and sharing"
-url: "http://joseantunes.tech"
+url: "https://joseantunes.tech"
 baseurl:
   ""
   # the optional subpath of your site, e.g. "/blog"
