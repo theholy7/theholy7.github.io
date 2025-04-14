@@ -14,6 +14,8 @@ This lecture was recommended to me by a friend that had the pleasure of doing a 
 Not only was my friend impressed by what he learned, he claimed that the course paid itself back after the first closed
 contract.
 
+<!--more-->
+
 I feel like I have been very lucky everytime that I negotiated a new job.
 I got more or less what I wanted, but have I gotten all I could have gotten? I don't know.
 I feel like I am bad at negotiating, usually revealing way too much way too soon.
