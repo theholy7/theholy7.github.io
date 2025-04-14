@@ -132,41 +132,44 @@ Some people give, expecting that by giving the other party will be happy, close 
 However, the other party might just want more. It's important to stop giving this signal.
 
 Don't give, exchange. Give something, take something.
+
 The conversation should be about: can you bring enough value to the table, and can you give enough value in return.
+The moment you establish that link then you don't have to give anymore - you can exchange.
+The value of the exchange will be different for both parties, it just needs to be enough so that you don't fall into the trap of giving more than required.
 
 ## Myth #5: Be fair
 
-Don't be fair, build common meaning.
+Fairness is really difficult to define. It changes for each party.
+We normally focus on "What is fair to me?", we never talk about what is fair for the other side.
+So it is common that the other side ends up frustrated.
 
-Things need to make sense to both sides.
+Has anyone ever said "No, no, this is unfair to you, lets not do this."?
+
+Don't be fair, build common meaning. Things need to make sense to both sides.
+When you look for fairness, you just see the world from your perspective.
+When you try to build common meaning, you see the world from their perspective and yours.
+And then you build a solution that is sustainable.
 
 ## Myth #6: Be faithful, loyal
 
-Don't be loyal, don't be blindly loyal. Be faithful to the process.
+Don't be loyal. Be faithful to the process.
 
-If you make enough good moves with this process, the sequence of good moves will take you to a place of more
-value, and less risk. Don't panic and change when things are not working.
+If you make enough good moves with this process, the sequence of good moves will take you to a place of more value, and less risk.
+Don't panic and change if things are not working immediately.
 
 ## Myth #7: Commit to a win-win outcome
 
 Don't commit to an outcome, don't limit yourself.
 
-We should commit to an effort. Commit to your behaviour.
+We should commit to an effort. Commit to your behaviour. Commit to a process.
 
-## Lying and cheating
-
-According to Professor Falcão's framework, lying and cheating have no place in win-win negotiations.
-While he advocates against naive trust and blind transparency, he doesn't endorse deception.
-Instead, he promotes strategic translucency—sharing what's beneficial while being mindful of what information you disclose.
-The goal isn't to manipulate or deceive, but to create mutual value through understanding interests and motivations.
-Effective negotiators focus on building common meaning and exchanging value rather than resorting to dishonesty.
-Remember that sustainable negotiations require maintaining credibility; once trust is broken through lying, future negotiations become significantly more difficult, if not impossible.
-
-
-
-## ending thoughts
+## Ending thoughts
 
 It's about being win-win, and how to be win-win. Stay positive, and not naive.
+
+I think I will try to adopt this framework for a while, and see what it brings me.
+It won't always be perfect, but I will try to not panic, try not to be naive, and I will commit
+to the effort and the process.
 
 ### References
 
