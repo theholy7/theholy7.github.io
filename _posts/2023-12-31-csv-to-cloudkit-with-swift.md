@@ -3,7 +3,7 @@ layout: post
 title: Using Swift and CSVs to send data to CloudKit DB
 excerpt_separator:  <!--more-->
 categories:
-  - Code
+  - Random Code
 tags:
   - Learning
   - Boulderbook

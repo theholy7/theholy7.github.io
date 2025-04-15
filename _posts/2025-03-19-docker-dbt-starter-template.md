@@ -3,7 +3,7 @@ layout: post
 title: Docker and DBT starter template
 excerpt_separator:  <!--more-->
 categories:
-  - Code
+  - Random Code
 tags:
   - Learning
   - Python
