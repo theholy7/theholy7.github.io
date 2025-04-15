@@ -5,7 +5,6 @@ excerpt_separator:  <!--more-->
 categories:
   - i3wm
 tags:
-  - i3wm
   - light
   - brightness
 ---

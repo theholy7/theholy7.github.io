@@ -5,6 +5,7 @@ excerpt_separator:  <!--more-->
 categories:
   - Random Code
 tags:
+  - Python
   - Flask
   - Flask Restplus
   - Python
@@ -17,7 +18,7 @@ Part of a good product is to be able to provide the users with a good experience
 or develop tools that interact with it. To do so, you need to be able to tell them exaclty what is going wrong.
 A simple 400 Bad Request won't work, you need to be able produce custom error messages and codes.
 
-However, what should be an easy task, isn't. <!--more-->[Flask-Restplus](https://github.com/noirbizarre/flask-restplus/) 
+However, what should be an easy task, isn't. <!--more-->[Flask-Restplus](https://github.com/noirbizarre/flask-restplus/)
 (or at least the fork we use internally) doesn't seem
 to support raising custom Exceptions for JSON payloads that are sent to a POST endpoint. So how did we solve this problem?
 
@@ -67,8 +68,8 @@ We want to leverage this to:
 
 So lets start!
 
-First we define a new model that inherits from the Flask-Restplus model. 
-To solve point _1._ in our list, we want to add the JSONschema property 
+First we define a new model that inherits from the Flask-Restplus model.
+To solve point _1._ in our list, we want to add the JSONschema property
 _"additionalProperties": false_ to the model's schema.
 
 ```python
@@ -135,11 +136,11 @@ def validate(self, data, resolver=None, format_checker=None):
     """
     validator = Draft4Validator(self.__schema__, resolver=resolver, format_checker=format_checker)
     type_errors = [err for err in validator.iter_errors(data)]
-    
+
     if len(type_errors) >= 1:
         # Raise for multiple errors
         exceptions = [self._convert_type_error_to_custom(err) for err in type_errors]
-    
+
         raise MultipleErrorException(exceptions)
 ```
 

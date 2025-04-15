@@ -6,7 +6,6 @@ categories:
   - Fake Foods
 tags:
   - Python
-  - Fake Foods
 ---
 The [first post](intro) established all my project objectives, so this post serves to give a bit more structure to the idea.
 
@@ -17,7 +16,7 @@ This is:
 ```bash
 .
 ├── spiders_folder
-├── data_science_folder 
+├── data_science_folder
 └── any_other_folder
 
 3 directories, 0 files
@@ -72,7 +71,7 @@ When this is all done, you have your virtual environment ready, and you can star
 
 ```bash
 (fake-foods) $ pip install scrapy
-(fake-foods) $ scrapy startproject fake_food_spider . 
+(fake-foods) $ scrapy startproject fake_food_spider .
 ```
 
 What happened here?
@@ -109,7 +108,7 @@ Lets install _cookiecutter_, and run a second command to initialize the project 
 
 ```bash
 (fake-foods) $ pip install cookiecutter
-(fake-foods) $ cookiecutter https://github.com/drivendata/cookiecutter-data-science 
+(fake-foods) $ cookiecutter https://github.com/drivendata/cookiecutter-data-science
 ```
 
 After running this command, we finally have the project structure we wanted defined in the beggining.
@@ -121,4 +120,4 @@ Stay tuned, and if you made it here: thanks for reading!
 
 Best,
 
-Jose 
+Jose
