@@ -16,8 +16,6 @@ You are not wrong, but I urge you to keep it simple.
 Keeping it simple at the start is a powerful tool.
 It won’t stop you from bringing in change later, and it gives you time to focus on what is truly important: listening.
 
-<!--more-->
-
 Each company is different, shaped by its people and the business context.
 When you listen you give yourself a chance to learn.
 Maybe they have tried your idea before, maybe you have to follow specific processes, maybe your process is there slightly hidden.
