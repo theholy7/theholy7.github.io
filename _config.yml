@@ -1,9 +1,9 @@
 # Github related
-remote_theme: fongandrew/hydeout@265598d905fea02a55815ecce02c0d40ae9c13cc
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-remote-theme
-  - "jekyll-github-metadata"
-  - "jekyll-feed"
+  - jekyll-github-metadata
+  - jekyll-feed
 
 # Theme Related
 title: "Jose Antunes"
