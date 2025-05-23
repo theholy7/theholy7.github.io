@@ -14,7 +14,7 @@ You are sure your knowledge and experience along with your fresh perspective can
 You are not wrong, but I urge you to keep it simple.
 
 Keeping it simple at the start is a powerful tool.
-It won’t stop you from bringing in change later, and it gives you time to focus on what is truly important: listening.
+It won't stop you from bringing in change later, and it gives you time to focus on what is truly important: listening.
 
 Each company is different, shaped by its people and the business context.
 When you listen you give yourself a chance to learn.
@@ -27,14 +27,14 @@ On the complexity side, when I onboarded I looked at our coding environment and 
 Well, the first thing you see when you try to get Rye is that you should use UV.
 So, I made the change to UV, updated some onboarding docs, and tried to push the change through for the projects we were working on - it should have been trivial.
 It was not, and it has not happened yet.
-In my company, change requires a few steps, very much a different approach to my “startup-y” jobs.
+In my company, change requires a few steps, very much a different approach to my "startup-y" jobs.
 We had a new joiner come in, and now his developer experience is less than ideal.
-There are multiple ways to setup your environment - this needs fixing. Lesson learned.
+There are multiple ways to set up your environment - this needs fixing. Lesson learned.
 
 Or at least I thought I had learned it.
 I noticed some other inefficiencies in our documentation and making requests to our microservices.
-I wanted to bring in some structured to our team, start a repository, host some HTTP requests collection, and then share that with the team.
-Again, because I didn’t understand the limitations of the process of “doing new work”, I got stuck with an empty created repository, and no way to commit my collection of requests until I have a ticket assigned.
+I wanted to bring in some structure to our team, start a repository, host some HTTP requests collection, and then share that with the team.
+Again, because I didn't understand the limitations of the process of "doing new work", I got stuck with an empty created repository, and no way to commit my collection of requests until I have a ticket assigned.
 More noise, no benefit.
 
 I could argue the system is broken, stopping me from innovating and iterating.
