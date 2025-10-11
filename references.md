@@ -19,5 +19,9 @@ Sadly, I should have started this as soon as I created my website. Many articles
 ## Work
 
 * [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 
 ## Management
+
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+* [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
