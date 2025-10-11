@@ -27,3 +27,4 @@ Sadly, I should have started this as soon as I created my website. Many articles
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
 * [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
 * [How I give the right amount of context (in any situation)](https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context)
+* [How to be an empathetic manager (without becoming a therapist)](https://newsletter.weskao.com/p/be-an-empathetic-manager-without-becoming-a-therapist?_bhlid=ac9a0b3b1be43e27d477ce81a5507060e09bfc60)
