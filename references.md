@@ -15,6 +15,7 @@ Sadly, I should have started this as soon as I created my website. Many articles
 ## Friends' Blogs
 
 * [Sebastien Williams-Wynn](https://s3bw.github.io/writes/)
+* [Citizen428](https://citizen428.net)
 
 ## Work
 
