@@ -12,6 +12,10 @@ My hope with this list is that I can track articles that resonated with me, and 
 
 Sadly, I should have started this as soon as I created my website. Many articles are now lost to time, and only a vague idea remains in my memory. Changing that starts today.
 
+## Friends' Blogs
+
+* [Sebastien Williams-Wynn](https://s3bw.github.io/writes/)
+
 ## Work
 
 * [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
