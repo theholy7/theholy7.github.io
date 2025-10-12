@@ -21,6 +21,8 @@ Sadly, I should have started this as soon as I created my website. Many articles
 
 * [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
+* [Why Developer Experience Is More Than Just Better Tooling](https://blog.pragmaticdx.com/p/why-developer-experience-is-more)
+  * Developer experience is a systems problem masquerading as a tooling problem. The organizations winning at DX understand this distinction. They invest in tools, yes, but they invest equally in culture, communication patterns, psychological safety, and organizational design.
 
 ## Management
 
