@@ -98,14 +98,26 @@ having a tireless collaborator next to you. You guide it, and you review the
 code, trusting both your engineering sense, and engineering best practices you
 follow. You are the editor, not the author.
 
-The biggest difference between the human code you trust, and the AI code you
-don't is context. With a human, when your prompt is limited, you expect them to
-go and find the lacking context as they are aware of your business, and make
-decisions. The AI only knows what you tell it - so it is paramount to give it
-the right context. All your thinking is done ahead of the prompt, otherwise it
-will make assumptions that sound correct but might be completely wrong. Don't
-think you are getting dumber, that you are offloading your thinking. You are not
-thinking less. You are thinking first, and then letting the execution happen.
+This is meaningfully different from delegating to a person. A human colleague
+will push back if your requirements are unclear, ask clarifying questions, flag
+when something feels wrong. There is a shared stake in the outcome. With AI
+tools, none of that exists — they will confidently produce something wrong
+without hesitation, filling gaps with plausible-sounding guesses. The
+responsibility doesn't actually distribute. It stays entirely with you, just
+disguised as delegation.
+
+This means that delegating to AI requires *more* upfront clarity than
+delegating to a person, not less. A good human collaborator compensates for a
+vague brief. AI launders it into confident-looking output. The better mental
+model isn't "I delegated this" — it's that you used a sophisticated tool, and
+the full weight of ownership never left you.
+
+Which brings us back to context. The AI only knows what you tell it - so it is
+paramount to give it the right context. All your thinking is done ahead of the
+prompt, otherwise it will make assumptions that sound correct but are wrong.
+Don't think you are getting dumber, that you are offloading your thinking. You
+are not thinking less. You are thinking first, and then letting the execution
+happen.
 
 Thankfully, when you do get it wrong, you can just *discard the code,
 and start over*. The cost of code has lowered, so you can use what you learned
@@ -118,8 +130,12 @@ So, to summarize:
 * Review code as you normally do. Be critical, apply engineering best
   practices. Small PRs, tests written and passing. When it's not good enough you
   start over.
-* Think ahead as much as possible, write a good prompt, then execute. If it's
-  wrong, start over with the new learnings
+* Before prompting, write a short spec — even a paragraph. What should this do?
+  What are the edge cases? What should it *not* do? Then review the output
+  against your spec rather than reading it cold. You'll find review much easier
+  because you have a framework, and over time this is how you build intuition
+  for what context these tools need upfront. When it's wrong, start over with
+  more context
 
 ## Fear of getting outdated
 
