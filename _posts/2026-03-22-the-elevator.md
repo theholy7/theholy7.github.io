@@ -17,7 +17,7 @@ Lately, I have had this image in my head of people that were face to
 face with elevators for the first time. What was it like to be in that moment?
 What were the feelings going through their heads? Excitement? Discomfort?
 
-I wonder what I'd do if I was living in that period. Would I be taking the stairs
+I wonder what I'd do if I were living in that period. Would I be taking the stairs
 because that is what I am used to doing? Would I be jumping onto any elevator
 because of how new that technology was?
 
