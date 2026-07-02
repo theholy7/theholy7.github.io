@@ -30,3 +30,6 @@ Sadly, I should have started this as soon as I created my website. Many articles
 * [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
 * [How I give the right amount of context (in any situation)](https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context)
 * [How to be an empathetic manager (without becoming a therapist)](https://newsletter.weskao.com/p/be-an-empathetic-manager-without-becoming-a-therapist?_bhlid=ac9a0b3b1be43e27d477ce81a5507060e09bfc60)
+* ["Good engineering management" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
+  * This article shares core skills and growth skills
+  * Has a very interesting take on engineering management and career development
