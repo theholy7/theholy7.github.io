@@ -7,7 +7,7 @@ categories:
 tags:
   - Python
   - Pandas
-  - pycopg2
+  - psycopg2
   - PostgreSQL
 ---
 I love working with Python + Pandas, but sometimes working with lots of data or even loading
