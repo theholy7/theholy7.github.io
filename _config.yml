@@ -27,3 +27,8 @@ disqus:
   shortname: joseantunes-tech
 
 google_analytics: "UA-28769373-2"
+
+# Build settings (match what the GitHub Pages builder used to produce)
+sass:
+  style: compressed
+  sourcemap: never
