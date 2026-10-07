@@ -8,7 +8,6 @@ tags:
   - Python
   - Flask
   - Flask Restplus
-  - Python
   - API development
 ---
 If you have checked my LinkedIn, you know I am a Data Engineer at [Cytora](https://www.cytora.com).
